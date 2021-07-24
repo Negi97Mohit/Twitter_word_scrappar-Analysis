@@ -2,11 +2,11 @@
 ## Preliminary Analysis-Tweets Database
 ![RSI](https://github.com/Negi97Mohit/Twitter_word_scrappar-Analysis/blob/main/img/1.png)
 
-##Top Word Mentioned
-![Top Word Mentioned](https://github.com/Negi97Mohit/Twitter_word_scrappar-Analysis/blob/main/img/2.png)
-- Short Interest
+## Top Word Mentioned
 
-##Top Organization Mentioned
+![Top Word Mentioned](https://github.com/Negi97Mohit/Twitter_word_scrappar-Analysis/blob/main/img/2.png)
+
+## Top Organization Mentioned
 ![Top Organization Mentioned](https://github.com/Negi97Mohit/Twitter_word_scrappar-Analysis/blob/main/img/3.png)
 
 
